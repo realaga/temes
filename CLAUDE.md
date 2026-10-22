@@ -23,4 +23,5 @@ Rules:
 
 - Al empezar cada sesión, antes de la primera llamada a una herramienta, invoca la skill `task-observer` (`.claude/skills/task-observer/SKILL.md`).
 - Espacio de trabajo fijo: `/home/user/temes` (la raíz de este repositorio). El registro de observaciones vive en `/home/user/temes/skill-observations/`.
-- Las sesiones en la nube son temporales: cuando se añadan o cambien observaciones, haz commit de `skill-observations/` y súbelo a GitHub en la rama de la sesión antes de terminar, o se perderán.
+- Las sesiones en la nube son temporales: cuando se añadan o cambien observaciones, haz commit de `skill-observations/` y súbelo a GitHub antes de terminar, o se perderán.
+- Permiso del usuario: los commits que solo tocan `skill-observations/` se suben **directamente a la rama principal** (`claude/install-graphify-gx4joa`), sin pull request. Haz el commit de las notas aparte, sin mezclarlo con otros cambios, para que la regla de pull requests siga aplicándose a todo lo demás. Antes de subir, trae la última versión de la rama principal (`git pull --rebase`).
