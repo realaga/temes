@@ -8,3 +8,12 @@ Rules:
 - Read graphify-out/GRAPH_REPORT.md only for broad architecture review or when query/path/explain do not surface enough context.
 - After modifying code, run `graphify update .` to keep the graph current (AST-only, no API cost).
 - A committed graphify-out/graph.json is rewritten whole on every build, so a large diff to it in a pull request is expected. Do not flag it as churn or suggest skipping the graph rebuild or its hooks.
+
+## Sobre el usuario y cómo trabajar con él
+
+- Responde siempre en español.
+- El usuario está aprendiendo a usar Claude Code y Git/GitHub: explica los conceptos con palabras sencillas (qué es una rama, un pull request, un merge…) y sin dar por hecho conocimientos previos.
+- Usa Claude Code desde un iPhone, en sesiones en la nube. Cuando haga falta una acción suya en GitHub, dale el enlace directo y los botones exactos que debe pulsar.
+- Las sesiones son temporales: todo lo que deba conservarse hay que subirlo a GitHub.
+- Recomendación acordada: trabajar con un solo repositorio por sesión. Este repositorio (`temes`) es su espacio personal para aprender y crear proyectos propios; empezó vacío.
+- graphify sirve para mapear el código, no para recordar conversaciones. Cuando el repositorio tenga código, se puede generar el mapa con `/graphify .`.
