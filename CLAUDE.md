@@ -34,3 +34,8 @@ Rules:
 ## claude-automation-recommender
 
 - Skill oficial de Anthropic (plugin `claude-code-setup`), solo lectura: analiza el repositorio y recomienda hooks, skills, servidores MCP y subagentes. Úsala cuando el usuario pida recomendaciones para configurar Claude Code. Antes de instalar algo que recomiende, explica para qué sirve y si choca con lo ya instalado.
+
+## Vídeos
+
+- Los vídeos (Remotion + voz de ElevenLabs) se entregan como archivo `.mp4` directamente en el chat, para que el usuario lo guarde en su teléfono.
+- Nada de los vídeos (ni el `.mp4`, ni la voz, ni el proyecto `videos/`) se sube al repositorio: es público. `videos/` está en `.gitignore`.
