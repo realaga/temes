@@ -25,3 +25,8 @@ Rules:
 - Espacio de trabajo fijo: `/home/user/temes` (la raíz de este repositorio). El registro de observaciones vive en `/home/user/temes/skill-observations/`.
 - Las sesiones en la nube son temporales: cuando se añadan o cambien observaciones, haz commit de `skill-observations/` y súbelo a GitHub antes de terminar, o se perderán.
 - Permiso del usuario: los commits que solo tocan `skill-observations/` se suben **directamente a la rama principal** (`claude/install-graphify-gx4joa`), sin pull request. Haz el commit de las notas aparte, sin mezclarlo con otros cambios, para que la regla de pull requests siga aplicándose a todo lo demás. Antes de subir, trae la última versión de la rama principal (`git pull --rebase`).
+
+## ponytail
+
+- En cualquier tarea de código (escribir, arreglar, revisar), usa la skill `ponytail` (`.claude/skills/ponytail/SKILL.md`) en nivel `full`: la solución más simple que funcione, sin añadir cosas que nadie pidió.
+- Ponytail solo cambia cómo escribo el código. Las explicaciones al usuario siguen las reglas de arriba: en español, sencillas y sin dar nada por sabido.
