@@ -29,6 +29,11 @@
             "type": "command",
             "command": "command -v graphify >/dev/null 2>&1 || uv tool install graphifyy >/dev/null 2>&1 || pipx install graphifyy >/dev/null 2>&1 || pip install --user graphifyy >/dev/null 2>&1 || true",
             "timeout": 300
+          },
+          {
+            "type": "command",
+            "command": "command -v markitdown >/dev/null 2>&1 || pip install -q 'markitdown[all]' >/dev/null 2>&1 || true",
+            "timeout": 300
           }
         ]
       }
