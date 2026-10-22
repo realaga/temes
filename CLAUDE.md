@@ -30,3 +30,7 @@ Rules:
 
 - En cualquier tarea de código (escribir, arreglar, revisar), usa la skill `ponytail` (`.claude/skills/ponytail/SKILL.md`) en nivel `full`: la solución más simple que funcione, sin añadir cosas que nadie pidió.
 - Ponytail solo cambia cómo escribo el código. Las explicaciones al usuario siguen las reglas de arriba: en español, sencillas y sin dar nada por sabido.
+
+## claude-automation-recommender
+
+- Skill oficial de Anthropic (plugin `claude-code-setup`), solo lectura: analiza el repositorio y recomienda hooks, skills, servidores MCP y subagentes. Úsala cuando el usuario pida recomendaciones para configurar Claude Code. Antes de instalar algo que recomiende, explica para qué sirve y si choca con lo ya instalado.
