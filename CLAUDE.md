@@ -17,3 +17,9 @@ Rules:
 - Las sesiones son temporales: todo lo que deba conservarse hay que subirlo a GitHub.
 - Recomendación acordada: trabajar con un solo repositorio por sesión. Este repositorio (`temes`) es su espacio personal para aprender y crear proyectos propios; empezó vacío.
 - graphify sirve para mapear el código, no para recordar conversaciones. Cuando el repositorio tenga código, se puede generar el mapa con `/graphify .`.
+
+## task-observer
+
+- Al empezar cada sesión, antes de la primera llamada a una herramienta, invoca la skill `task-observer` (`.claude/skills/task-observer/SKILL.md`).
+- Espacio de trabajo fijo: `/home/user/temes` (la raíz de este repositorio). El registro de observaciones vive en `/home/user/temes/skill-observations/`.
+- Las sesiones en la nube son temporales: cuando se añadan o cambien observaciones, haz commit de `skill-observations/` y súbelo a GitHub en la rama de la sesión antes de terminar, o se perderán.
