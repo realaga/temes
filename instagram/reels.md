@@ -18,6 +18,7 @@ Notas:
 ## Publicados
 
 - **Célula** (44,0 s), 2026-10-23: https://www.instagram.com/reel/De0tNwaGHN6/
+- **Manta** (`manta.mp4`, 44,0 s), 2026-10-23: https://www.instagram.com/reel/De2sM6oGxvR/ — falta YouTube Shorts: la subida por Composio falló por la cuota diaria de vídeos (error 429).
 
 ## Pendientes
 
