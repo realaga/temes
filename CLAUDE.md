@@ -39,4 +39,5 @@ Rules:
 
 - Los vídeos (Remotion + voz de ElevenLabs) se entregan como archivo `.mp4` directamente en el chat, para que el usuario lo guarde en su teléfono.
 - Nada de los vídeos (ni el `.mp4`, ni la voz, ni el proyecto `videos/`) se sube al repositorio: es público. `videos/` está en `.gitignore`.
+- Publicar en Instagram (cuenta `solo45segundos`, vía Composio): sigue `instagram/reels.md`, que tiene los pasos, los reels pendientes y sus textos.
 - Duración máxima: **45 segundos**, contando el final con el "Sígueme". El nombre de su cuenta de Instagram lo promete ("45s"). Escribe el guion para que quepa (unas 110–120 palabras a la velocidad de la voz actual) y comprueba la duración del `.mp4` antes de entregarlo.
