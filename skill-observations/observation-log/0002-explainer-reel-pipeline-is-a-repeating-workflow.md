@@ -6,10 +6,10 @@ type: open-source
 skill: []
 proposes_skill: [explainer-reel]
 target_file: []
-siblings_checked: "none: no skill-families.md registry; no existing skill covers video production in this workspace (yt-script writes scripts only, watch only analyses)"
+siblings_checked: "none: no skill-families.md registry; no existing skill covers video production in this workspace (yt-script and ig-reel write scripts and beat sheets only, watch only analyses); ig-reel beats.py --target is the natural script-length check to reuse"
 area: "New skill: end-to-end vertical explainer video production"
 date: 2026-10-23
-session_context: "Three science shorts in one session (cell life, sleep, wound healing) built in the style of a reference Instagram reel, for a creator on a phone"
+session_context: "Three science shorts in one session (cell life, sleep, wound healing) built in the style of a reference Instagram reel, for a creator on a phone; next session (2026-10-23) the same three had to be cut to a 45 s cap from the rendered files alone"
 parked_until:
 resolved:
 resolution:
@@ -22,3 +22,5 @@ commands_verified: none
 **Suggested improvement:** Create an `explainer-reel` skill: reference-style capture checklist (caption treatment, label pills, counters, progress bar, CTA ending), a reusable Remotion UI module (captions with keyword box, pill, counter, bar, clock, phone CTA) parametrised by palette, the voice → timestamps recipe (including the pin-generation-as-node fallback), the word-count assertion, the contact-sheet review step, and a publishing section that states up front that connector uploads need the file in the connector's storage and that the user's own app upload is the reliable default from a phone.
 
 **Principle:** When a multi-step production workflow repeats within a single session, extract its reusable components at the second repetition, not the third, and record the environment's publishing constraints before promising automated delivery.
+
+**Second instance (2026-10-23):** the user set a hard 45 s maximum (it is in their Instagram account name) after the three reels came out at 69.5 s, 53 s and 48.5 s. The Remotion project was gone with the old session, so they had to be shortened from the delivered .mp4 files: transcribe with word timestamps (faster-whisper; feed it ffmpeg-decoded f32 audio, because its PyAV call failed), drop whole sentences, and cut where three signals agree: a silence (silencedetect), the darkest frame of the scene fade (signalstats YAVG), and the frame where the burned-in caption switches. Cutting at the silence midpoint alone left 1–3 frames of the removed sentence's caption visible. The skill should carry the duration cap as a script-time limit (about 110–120 words at this voice), check the rendered duration before delivery, and keep this trim recipe as a fallback for when the source project is lost.
