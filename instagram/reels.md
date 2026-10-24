@@ -14,6 +14,7 @@ Notas:
 - Los textos se publican **sin hashtags**: la herramienta no deja claro cómo trata el símbolo `#`. El usuario los añade editando la publicación en la app. Lo mismo vale para `%`: escribe "80 por ciento".
 - Uno al día, en el orden de la lista.
 - Instagram no deja a ninguna aplicación cambiar el nombre ni la biografía del perfil, ni escribir primero por mensaje privado.
+- Voz de los reels desde el 2026-10-24 (GPS, mensaje, pantalla): Mateo (ElevenLabs, `WMpAKHr8NOKA29XOHZkk`, modelo `eleven_v4`). Copia de esos vídeos en Drive, carpeta "Claude videos".
 
 ## Publicados
 
@@ -22,28 +23,9 @@ Notas:
 - **Reloj** (`reloj.mp4`, 43,7 s), 2026-10-24: Instagram, versión oscura con la voz limpia (`reloj-oscuro-limpio.mp4`): https://www.instagram.com/reel/De3Ot5AAauD/ · YouTube Shorts, versión clara: https://youtube.com/shorts/Q432BklPS0w
 - **GPS** (`gps.mp4`, 39,5 s), 2026-10-24 a las 6:30 (Newark): https://www.instagram.com/reel/De3qBW8Ezsj/ · hashtags para añadir a mano: `#gps #satelites #tecnologia #ciencia`
 - **Mensaje** (`mensaje.mp4`, 37,0 s), 2026-10-24 a las 8:00 (Newark): https://www.instagram.com/reel/De3p9udCgUY/ · hashtags para añadir a mano: `#internet #fibraoptica #tecnologia #ciencia`
+- **Pantalla** (`pantalla.mp4`, 35,7 s), 2026-10-24 a las 9:30 (Newark): https://www.instagram.com/reel/De3p95ZFDjp/ · hashtags para añadir a mano: `#pantallatactil #tecnologia #fisica #ciencia`
 
 ## Pendientes
-
-### Programados para el 2026-10-24 (hora de Newark)
-
-Copia de los tres en Drive, carpeta "Claude videos". Ya están cargados en Instagram (contenedores listos) y se publican solos a su hora.
-
-Voz de los tres: Mateo (ElevenLabs, `WMpAKHr8NOKA29XOHZkk`, modelo `eleven_v4`). Estilo copiado del reel de referencia https://www.instagram.com/reel/DevKFZvxbb5/ (fondo oscuro, líneas de neón, etiquetas en letra de máquina).
-
-#### pantalla.mp4, 9:30
-
-```
-Envíaselo a ese amigo que no se quita los guantes para usar el teléfono.
-
-Tu pantalla no funciona con guantes, pero sí con una salchicha. Y tiene explicación.
-
-Bajo el cristal hay una rejilla invisible de cables transparentes con una pequeña carga eléctrica. Tu dedo conduce la electricidad (la salchicha también) y al tocar se roba un poco de carga en un cruce. Un chip revisa todos los cruces más de cien veces por segundo y calcula dónde tocaste. El guante es aislante: no se roba nada y la pantalla ni se entera.
-
-Ciencia explicada en 45 segundos.
-```
-
-Hashtags para añadir a mano: `#pantallatactil #tecnologia #fisica #ciencia`
 
 ### 2-sueno-45s.mp4 (43,1 s)
 
