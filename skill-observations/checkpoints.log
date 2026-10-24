@@ -9,3 +9,6 @@
 2026-10-23 22:07 [temes] workspace: created=none
 2026-10-23 23:46 [temes] checkpoint after todo 8: observation 0002 extended (sixth instance)
 2026-10-23 23:53 [temes] checkpoint after todo 9-10 (reloj reel delivered, 7:00 publish scheduled): no observations
+2026-10-24 01:50 [temes] workspace: created=none
+2026-10-24 01:50 [temes] session-start scan: files=4 parsed=4 principles=0
+2026-10-24 01:58 [temes] checkpoint (revisión de API keys entregada): observation 0004 extended (second instance, watch key step)
