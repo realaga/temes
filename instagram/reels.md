@@ -14,12 +14,16 @@ Notas:
 - Los textos se publican **sin hashtags**: la herramienta no deja claro cómo trata el símbolo `#`. El usuario los añade editando la publicación en la app. Lo mismo vale para `%`: escribe "80 por ciento".
 - Uno al día, en el orden de la lista.
 - Instagram no deja a ninguna aplicación cambiar el nombre ni la biografía del perfil, ni escribir primero por mensaje privado.
+- Voz de los reels desde el 2026-10-24 (GPS, mensaje, pantalla): Mateo (ElevenLabs, `WMpAKHr8NOKA29XOHZkk`, modelo `eleven_v4`). Copia de esos vídeos en Drive, carpeta "Claude videos".
 
 ## Publicados
 
 - **Célula** (44,0 s), 2026-10-23: https://www.instagram.com/reel/De0tNwaGHN6/
 - **Manta** (`manta.mp4`, 44,0 s), 2026-10-23: https://www.instagram.com/reel/De2sM6oGxvR/ — falta YouTube Shorts: la subida por Composio falló por la cuota diaria de vídeos (error 429).
 - **Reloj** (`reloj.mp4`, 43,7 s), 2026-10-24: Instagram, versión oscura con la voz limpia (`reloj-oscuro-limpio.mp4`): https://www.instagram.com/reel/De3Ot5AAauD/ · YouTube Shorts, versión clara: https://youtube.com/shorts/Q432BklPS0w
+- **GPS** (`gps.mp4`, 39,5 s), 2026-10-24 a las 6:30 (Newark): https://www.instagram.com/reel/De3qBW8Ezsj/ · hashtags para añadir a mano: `#gps #satelites #tecnologia #ciencia`
+- **Mensaje** (`mensaje.mp4`, 37,0 s), 2026-10-24 a las 8:00 (Newark): https://www.instagram.com/reel/De3p9udCgUY/ · hashtags para añadir a mano: `#internet #fibraoptica #tecnologia #ciencia`
+- **Pantalla** (`pantalla.mp4`, 35,7 s), 2026-10-24 a las 9:30 (Newark): https://www.instagram.com/reel/De3p95ZFDjp/ · hashtags para añadir a mano: `#pantallatactil #tecnologia #fisica #ciencia`
 
 ## Pendientes
 
