@@ -21,6 +21,7 @@ Notas:
 - **Manta** (`manta.mp4`, 44,0 s), 2026-10-23: https://www.instagram.com/reel/De2sM6oGxvR/ — falta YouTube Shorts: la subida por Composio falló por la cuota diaria de vídeos (error 429).
 - **Reloj** (`reloj.mp4`, 43,7 s), 2026-10-24: Instagram, versión oscura con la voz limpia (`reloj-oscuro-limpio.mp4`): https://www.instagram.com/reel/De3Ot5AAauD/ · YouTube Shorts, versión clara: https://youtube.com/shorts/Q432BklPS0w
 - **GPS** (`gps.mp4`, 39,5 s), 2026-10-24 a las 6:30 (Newark): https://www.instagram.com/reel/De3qBW8Ezsj/ · hashtags para añadir a mano: `#gps #satelites #tecnologia #ciencia`
+- **Mensaje** (`mensaje.mp4`, 37,0 s), 2026-10-24 a las 8:00 (Newark): https://www.instagram.com/reel/De3p9udCgUY/ · hashtags para añadir a mano: `#internet #fibraoptica #tecnologia #ciencia`
 
 ## Pendientes
 
@@ -29,20 +30,6 @@ Notas:
 Copia de los tres en Drive, carpeta "Claude videos". Ya están cargados en Instagram (contenedores listos) y se publican solos a su hora.
 
 Voz de los tres: Mateo (ElevenLabs, `WMpAKHr8NOKA29XOHZkk`, modelo `eleven_v4`). Estilo copiado del reel de referencia https://www.instagram.com/reel/DevKFZvxbb5/ (fondo oscuro, líneas de neón, etiquetas en letra de máquina).
-
-#### mensaje.mp4, 8:00
-
-```
-Envíaselo a ese amigo que vive lejos y te contesta al instante.
-
-Tu mensaje no viaja por el espacio: cruza el fondo del mar.
-
-Tu teléfono convierte el texto en ceros y unos y los envía por radio a la antena más cercana. Desde ahí viajan como pulsos de luz por fibra óptica y cruzan el océano por cables submarinos del grosor de una manguera. Por ellos pasa casi todo internet entre continentes, no por satélites. Un servidor recibe el mensaje y se lo entrega a tu amigo por su antena.
-
-Ciencia explicada en 45 segundos.
-```
-
-Hashtags para añadir a mano: `#internet #fibraoptica #tecnologia #ciencia`
 
 #### pantalla.mp4, 9:30
 
