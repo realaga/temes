@@ -20,6 +20,7 @@ Notas:
 - **Célula** (44,0 s), 2026-10-23: https://www.instagram.com/reel/De0tNwaGHN6/
 - **Manta** (`manta.mp4`, 44,0 s), 2026-10-23: https://www.instagram.com/reel/De2sM6oGxvR/ — falta YouTube Shorts: la subida por Composio falló por la cuota diaria de vídeos (error 429).
 - **Reloj** (`reloj.mp4`, 43,7 s), 2026-10-24: Instagram, versión oscura con la voz limpia (`reloj-oscuro-limpio.mp4`): https://www.instagram.com/reel/De3Ot5AAauD/ · YouTube Shorts, versión clara: https://youtube.com/shorts/Q432BklPS0w
+- **GPS** (`gps.mp4`, 39,5 s), 2026-10-24 a las 6:30 (Newark): https://www.instagram.com/reel/De3qBW8Ezsj/ · hashtags para añadir a mano: `#gps #satelites #tecnologia #ciencia`
 
 ## Pendientes
 
@@ -28,20 +29,6 @@ Notas:
 Copia de los tres en Drive, carpeta "Claude videos". Ya están cargados en Instagram (contenedores listos) y se publican solos a su hora.
 
 Voz de los tres: Mateo (ElevenLabs, `WMpAKHr8NOKA29XOHZkk`, modelo `eleven_v4`). Estilo copiado del reel de referencia https://www.instagram.com/reel/DevKFZvxbb5/ (fondo oscuro, líneas de neón, etiquetas en letra de máquina).
-
-#### gps.mp4, 6:30
-
-```
-Envíaselo a ese amigo que cree que el GPS lo está vigilando.
-
-Los satélites GPS no saben dónde estás: lo calcula tu teléfono.
-
-Cada satélite emite sin parar su posición y la hora de su reloj atómico. Tu teléfono mide cuánto tarda la señal en llegar (unas siete centésimas de segundo) y con eso calcula la distancia a cada satélite. Con tres, solo hay un punto donde coinciden: tú. Un cuarto corrige el reloj del teléfono, porque una millonésima de segundo de error son 300 metros.
-
-Ciencia explicada en 45 segundos.
-```
-
-Hashtags para añadir a mano: `#gps #satelites #tecnologia #ciencia`
 
 #### mensaje.mp4, 8:00
 
