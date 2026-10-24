@@ -23,6 +23,54 @@ Notas:
 
 ## Pendientes
 
+### Programados para el 2026-10-24 (hora de Newark)
+
+Copia de los tres en Drive, carpeta "Claude videos". Ya están cargados en Instagram (contenedores listos) y se publican solos a su hora.
+
+Voz de los tres: Mateo (ElevenLabs, `WMpAKHr8NOKA29XOHZkk`, modelo `eleven_v4`). Estilo copiado del reel de referencia https://www.instagram.com/reel/DevKFZvxbb5/ (fondo oscuro, líneas de neón, etiquetas en letra de máquina).
+
+#### gps.mp4, 6:30
+
+```
+Envíaselo a ese amigo que cree que el GPS lo está vigilando.
+
+Los satélites GPS no saben dónde estás: lo calcula tu teléfono.
+
+Cada satélite emite sin parar su posición y la hora de su reloj atómico. Tu teléfono mide cuánto tarda la señal en llegar (unas siete centésimas de segundo) y con eso calcula la distancia a cada satélite. Con tres, solo hay un punto donde coinciden: tú. Un cuarto corrige el reloj del teléfono, porque una millonésima de segundo de error son 300 metros.
+
+Ciencia explicada en 45 segundos.
+```
+
+Hashtags para añadir a mano: `#gps #satelites #tecnologia #ciencia`
+
+#### mensaje.mp4, 8:00
+
+```
+Envíaselo a ese amigo que vive lejos y te contesta al instante.
+
+Tu mensaje no viaja por el espacio: cruza el fondo del mar.
+
+Tu teléfono convierte el texto en ceros y unos y los envía por radio a la antena más cercana. Desde ahí viajan como pulsos de luz por fibra óptica y cruzan el océano por cables submarinos del grosor de una manguera. Por ellos pasa casi todo internet entre continentes, no por satélites. Un servidor recibe el mensaje y se lo entrega a tu amigo por su antena.
+
+Ciencia explicada en 45 segundos.
+```
+
+Hashtags para añadir a mano: `#internet #fibraoptica #tecnologia #ciencia`
+
+#### pantalla.mp4, 9:30
+
+```
+Envíaselo a ese amigo que no se quita los guantes para usar el teléfono.
+
+Tu pantalla no funciona con guantes, pero sí con una salchicha. Y tiene explicación.
+
+Bajo el cristal hay una rejilla invisible de cables transparentes con una pequeña carga eléctrica. Tu dedo conduce la electricidad (la salchicha también) y al tocar se roba un poco de carga en un cruce. Un chip revisa todos los cruces más de cien veces por segundo y calcula dónde tocaste. El guante es aislante: no se roba nada y la pantalla ni se entera.
+
+Ciencia explicada en 45 segundos.
+```
+
+Hashtags para añadir a mano: `#pantallatactil #tecnologia #fisica #ciencia`
+
 ### 2-sueno-45s.mp4 (43,1 s)
 
 ```
